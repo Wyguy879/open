@@ -36,6 +36,6 @@
   },
   "devDependencies": {
     "eslint-config-react-app": "^7.0.1",
-    "react-scripts": "^0.0.0"
+    "react-scripts": "5.0.1"
   }
 }

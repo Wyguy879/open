@@ -13,8 +13,8 @@ RUN npm install
 # Copy frontend code
 COPY frontend/ ./frontend/
 
-# Build the React app
-RUN npm run build --prefix frontend
+# Install frontend dependencies and build the React app
+RUN cd frontend && npm install && npm run build
 
 # Expose port 3000
 EXPOSE 3000
