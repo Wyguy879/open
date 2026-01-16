@@ -1,0 +1,20 @@
+{
+  "name": "open",
+  "version": "1.0.0",
+  "description": "Create Is is the ultimate tool for renaming and organizing your movies, TV shows, and Anime. Match and rename media files against online databases, download artwork and cover images, fetch subtitles, write metadata, and more, all at once in matter of seconds. It's smart and just works.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@mui/icons-material": "^7.3.7",
+    "@mui/material": "^7.3.7",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  }
+}
